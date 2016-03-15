@@ -13,7 +13,11 @@ private:
 	unsigned short black_cnt;
 	unsigned short white_cnt;
 	unsigned short steps_cnt;
+<<<<<<< HEAD
     bool turn_mrk;//回合标记。
+=======
+    bool turn_mrk;//回合标记。。
+>>>>>>> lisirrx-CHessPractice
 	void cnt_pieces();
 	void update(const unsigned short x,const unsigned short y);
 public:
